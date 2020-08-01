@@ -1,2 +1,2 @@
-# Masked-Images-Dataset
+# MI Dataset
 Images of people with face mask from website Unsplash.com
